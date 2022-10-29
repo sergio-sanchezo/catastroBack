@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "12345",
+    "database": "catastro",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "engine": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "12345",
+    "database": "catastro",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "engine": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "12345",
+    "database": "catastro",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "engine": "postgres"
+  }
+}
